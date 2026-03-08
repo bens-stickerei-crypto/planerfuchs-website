@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://planerfuchs.github.io/planerfuchs-website/sitemap.xml
+Sitemap: https://bens-stickerei-crypto.github.io/planerfuchs-website/sitemap.xml
