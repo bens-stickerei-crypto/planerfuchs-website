@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://planerfuchs.github.io/planerfuchs-website/sitemap.xml
