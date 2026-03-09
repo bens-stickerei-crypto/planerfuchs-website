@@ -42,4 +42,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://bens-stickerei-crypto.github.io/planerfuchs-website/blog/eisenhower-matrix-vorlage.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bens-stickerei-crypto.github.io/planerfuchs-website/blog/chatgpt-prompts-deutsch-sammlung.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bens-stickerei-crypto.github.io/planerfuchs-website/blog/hochzeitsbudget-planen.html</loc>
+    <lastmod>2026-03-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
